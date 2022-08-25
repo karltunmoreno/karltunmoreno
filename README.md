@@ -90,9 +90,7 @@ ________________________________________________________________________________
 </a>
 
 
-<a href="https://github.com/karltunmoreno/popcorn_time">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karltunmoreno&repo=popcorn_time&theme=dark" />
-</a> 
+
 
 
 

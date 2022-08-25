@@ -26,8 +26,8 @@ ________________________________________________________________________________
 Skills:
 💻HTML / CSS
 
-![WebDeveloperMycrxnGIF](https://user-images.githubusercontent.com/95730440/186607275-82f2b0fc-d626-42b2-a8fc-168a6a18172d.gif) JAVASCRIPT
-![WebDeveloperMycrxnGIF (2)](https://user-images.githubusercontent.com/95730440/186607278-894912b3-35e1-408d-b118-08745e6d1087.gif)
+![JsJavascriptGIF](https://user-images JS.githubusercontent.com/95730440/186607641-6864820b-1b12-4531-9998-08624cfc195d.gif) JS
+
 
 JS / HTML / CSS
 

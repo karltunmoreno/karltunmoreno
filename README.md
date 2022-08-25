@@ -77,10 +77,6 @@ ________________________________________________________________________________
 
 ______________________________________________________________________________________________________________________________________________________________________
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karltunmoreno)](https://github.com/karltunmoreno/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=karltunmoreno&theme=dark&show_icons=true)
-
-______________________________________________________________________________________________________________________________________________________________________
 
 <a href="https://github.com/karltunmoreno/karltunmoreno">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karltunmoreno&theme=dark" />

@@ -15,7 +15,7 @@ ________________________________________________________________________________
 
 
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/karltunmoreno/)](https://linkedin.com/in/karltunmoreno/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/karltunmoreno/)](https://www.linkedin.com/in/karltun-moreno-0a910a46/)
 
 
 <p align="center"> :octocat: <b><a href="https://karltunmoreno.github.io/My-Portfolio/">Website</a>

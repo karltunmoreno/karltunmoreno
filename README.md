@@ -25,8 +25,8 @@ ________________________________________________________________________________
 
 Skills:
 💻HTML / CSS
+![image](https://user-images.githubusercontent.com/95730440/186608325-716721fa-c29f-4cd4-a502-d6c597c6b741.png)
 
-![JsJavascriptGIF](https://user-images JS.githubusercontent.com/95730440/186607641-6864820b-1b12-4531-9998-08624cfc195d.gif) JS
 
 
 JS / HTML / CSS

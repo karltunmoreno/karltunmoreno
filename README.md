@@ -22,7 +22,7 @@ ________________________________________________________________________________
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=karltunmoreno)](https://github.com/karltunmoreno/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=karltunmoreno&show_icons=true)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=karltunmoreno&show_icons=true&theme=radical)
 

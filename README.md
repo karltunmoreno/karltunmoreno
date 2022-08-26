@@ -9,7 +9,7 @@
 ### Hi there 👋, My name is Karltun Moreno
 ## Full Stack Web Developer
 
-![Ss](https://antoniaspagnardi.files.wordpress.com/2017/04/1358946.gif)
+![Ss](https://c.tenor.com/GVk4jB2u_i8AAAAd/coding.gif)
 
 
 

@@ -107,7 +107,7 @@ ________________________________________________________________________________
 
 __________________________________________________________
 
-Skills: REACT / JS / HTML / CSS / BOOTSTRAP / REST API
+Skills: REACT / JS / HTML / CSS / BOOTSTRAP / Third Party API's, Server Side API's, Restful API for CRUD and testing routes.
 
 - 🔭 I’m currently working on this page. 
 - 👯 I’m looking to collaborate on Original ideas with Blockchain 

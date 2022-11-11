@@ -30,7 +30,7 @@ ________________________________________________________________________________
 	![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 	![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 	
-	
+______________________________________________________________________________________________________________________________________________________________	
 	
 #### Front-end:
  
@@ -45,7 +45,7 @@ ________________________________________________________________________________
 ![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 	
-	
+_______________________________________________________________________________________________________________________________________________________________	
 ### Cloud:	
 	
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
@@ -97,6 +97,8 @@ ________________________________________________________________________________
 <a href="https://github.com/karltunmoreno/karltunmoreno">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karltunmoreno&theme=dark" />
 </a>
+	
+_____________________________________________________________________________________________________________________________________________________________________	
 <a href="https://github.com/karltunmoreno/karltunmoreno">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=karltunmoreno&show_icons=true&line_height=40&count_private=true&theme=dark"/>
 </a>

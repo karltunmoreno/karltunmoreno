@@ -9,7 +9,7 @@
 ### Hi there 👋, My name is Karltun Moreno
 ## I Am a Full Stack Web Developer                 ...    Find Me on .. [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/karltunmoreno/)](https://www.linkedin.com/in/karltun-moreno-0a910a46/)
 
-![Ss](https://media-exp1.licdn.com/dms/image/C5616AQHjV5mC0phYog/profile-displaybackgroundimage-shrink_350_1400/0/1664234178430?e=1669852800&v=beta&t=zlhYG7I0pKmcBGkegrZXmGUaZAAeBAhVWwA2G9mkv0g)
+![Ss](https://media-exp1.licdn.com/dms/image/C5616AQHjV5mC0phYog/profile-displaybackgroundimage-shrink_350_1400/0/1664234178430?e=1675900800&v=beta&t=4wKFEuPyJg2NNpy7PEuhLe55AAjmhQelhYyciFKX5nw)
 
 I am an accomplished coding and media production specialist that understands the phases of product and brand web development. From photography, content video to implementing (IOT) the Internet of Things into todays real time use case applications. I have become a full stack web developer advocate. Also, enriched with an arts & communications degree from Miami Dade College. I have also earned a Psychology degree from California State University, Northridge. Studied full stack web development and coding at the University of Miami and holds a certificate in Front and Back End Web Development.
 ______________________________________________________________________________________________________________________________________________________________________

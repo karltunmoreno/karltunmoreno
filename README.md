@@ -13,7 +13,7 @@
 
 " I am a Full Stack Web Developer that lives & breathes coding and media practices in order to find solutions for mobile first web applications.    This allows me to champion the creative growth of others and myself."
 
-An accomplished coding and media production specialist that understands the phases of product and brand web development. From photography, content video to implementing (IOT) the Internet of Things into todays real time use case applications. I have become a full stack web developer advocate. Also, enriched with an arts & communications degree from Miami Dade College. I have also earned a Psychology degree from California State University, Northridge. Studied full stack web development and coding at the University of Miami and holds a certificate in Front and Back End Web Development.
+An accomplished coding and media production specialist that understands the phases of product and brand web development. From photography, content video to implementing (IOT) the Internet of Things into todays real time use case applications. I have become a full stack web developer advocate. Also, enriched with an arts & communications degree from Miami Dade College. I have also earned a Psychology degree from California State University, Northridge. Studied full stack web development and coding at the University of Miami and hold a certificate in Front and Back End Web Development in MERN stack.
 ______________________________________________________________________________________________________________________________________________________________________
 
 <p align="center"> :octocat: <b><a href="https://karltunmoreno.github.io/My-Portfolio/">Website</a>

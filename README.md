@@ -9,7 +9,7 @@
 ### Hello.👋, My name is Karltun Moreno
 ## I Am a Full Stack Web Developer                 ...    Find Me on .. [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/karltunmoreno/)](https://www.linkedin.com/in/karltun-moreno-0a910a46/)
 
-![Ss](https://media-exp1.licdn.com/dms/image/C5616AQHjV5mC0phYog/profile-displaybackgroundimage-shrink_350_1400/0/1664234178430?e=1675900800&v=beta&t=4wKFEuPyJg2NNpy7PEuhLe55AAjmhQelhYyciFKX5nw)
+![Ss](https://media.licdn.com/dms/image/C5616AQHjV5mC0phYog/profile-displaybackgroundimage-shrink_350_1400/0/1664234178430?e=1681344000&v=beta&t=n0brje2bd5E2cfGcM-sQgqul08cJMy14h-p7ZXuu3dg)
 
 " I am a Full Stack Web Developer that lives & breathes coding and media practices in order to find solutions for mobile first web applications.    This allows me to champion the creative growth of others and myself."
 

@@ -11,6 +11,15 @@
 
 ![Ss](https://media.licdn.com/dms/image/C5616AQHjV5mC0phYog/profile-displaybackgroundimage-shrink_350_1400/0/1664234178430?e=1681344000&v=beta&t=n0brje2bd5E2cfGcM-sQgqul08cJMy14h-p7ZXuu3dg)
 
+
+## Video
+
+
+Place new video here 
+
+https://user-images.githubusercontent.com/95730440/229584426-a34abda5-f1ea-4d40-826a-9075704f2f32.mp4
+
+
 " I am a Full Stack Web Developer that lives & breathes coding and media practices in order to find solutions for mobile first web applications.    This allows me to champion the creative growth of others and myself."
 
 An accomplished coding and media production specialist that understands the phases of product and brand web development. From photography, content video to implementing (IOT) the Internet of Things into todays real time use case applications. I have become a full stack web developer advocate. Also, enriched with an arts & communications degree from Miami Dade College. I have also earned a Psychology degree from California State University, Northridge. Studied full stack web development and coding at the University of Miami and hold a certificate in Front and Back End Web Development in MERN stack.

@@ -9,7 +9,7 @@
 ### Hello.👋, My name is Karltun Moreno
 ## I am a Full Stack Web Developer                 ...    Find Me on .. [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/karltunmoreno/)](https://www.linkedin.com/in/karltun-moreno-0a910a46/)
 
-![Ss](https://static.wixstatic.com/media/3a8f21_fdeb5e3eb43447219ad3cc389229a612~mv2.png/v1/fill/w_499,h_279,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Contactus_.png)
+![Ss](https://static.wixstatic.com/media/3a8f21_10e12371a38647449cfb999a6cb660d9~mv2.jpg/v1/fill/w_1124,h_502,al_c,q_85,enc_auto/OD4.jpg)
 
 
 ## Video

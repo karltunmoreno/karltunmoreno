@@ -11,7 +11,7 @@
 
 
 
-![Ss](https://static.wixstatic.com/media/11062b_a1249d14a20546c986dfbaa31909c015f000.jpg/v1/fill/w_921,h_1080,al_c,q_85,usm_0.33_1.00_0.00,enc_auto/11062b_a1249d14a20546c986dfbaa31909c015f000.jpg)
+![Ss](https://www.karltunmediamagic.com/assets/img/logo/logo.png)
 
 
 ![Ss](https://static.wixstatic.com/media/3a8f21_10e12371a38647449cfb999a6cb660d9~mv2.jpg/v1/fill/w_1124,h_502,al_c,q_85,enc_auto/OD4.jpg)

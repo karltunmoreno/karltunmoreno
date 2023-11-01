@@ -121,6 +121,8 @@ ________________________________________________________________________________
 	
 <a href="https://github.com/karltunmoreno/karltunmoreno">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=karltunmoreno&show_icons=true&line_height=40&count_private=true&theme=dark"/>
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 </a> 
 
 

@@ -123,7 +123,7 @@ ________________________________________________________________________________
 <!--<a href="https://github.com/karltunmoreno/karltunmoreno">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=karltunmoreno&show_icons=true&line_height=40&count_private=true&theme=dark"/>-->
 
- ![Karltun Moreno ](https://github-readme-stats.vercel.app/api?username=karltunmoreno&show_icons=true&theme=transparent)
+ ![Karltun Moreno ](![Karltun's GitHub stat](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true))
 </a> 
 
 _____________________________________

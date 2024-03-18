@@ -123,10 +123,9 @@ ________________________________________________________________________________
 <!--<a href="https://github.com/karltunmoreno/karltunmoreno">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=karltunmoreno&show_icons=true&line_height=40&count_private=true&theme=dark"/>-->
 
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karltunmoreno&theme=radical)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karltunmoreno&theme=radical)-->
  
-
-_____________________________________
+__[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karltunmoreno)](https://github.com/karltunmoreno/github-readme-stats)___________________________________
 
 <!-- ![KARLTUN](https://github-readme-stats.vercel.app/api?username=karltunmoreno&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)-->
 

@@ -125,7 +125,7 @@ ________________________________________________________________________________
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karltunmoreno&theme=radical)-->
  
-__[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karltunmoreno)](https://github.com/karltunmoreno/github-readme-stats)___________________________________
+<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra"/>
 
 <!-- ![KARLTUN](https://github-readme-stats.vercel.app/api?username=karltunmoreno&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)-->
 

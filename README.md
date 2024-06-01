@@ -102,7 +102,7 @@ ________________________________________________________________________________
 ![Ruby](http://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=ffe8e8)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff7a1)
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
-<!--![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)-->
+
   
 ___________________________________________________________________________________________________________________________________________________________________
 
@@ -124,9 +124,9 @@ ________________________________________________________________________________
 <!--<a href="https://github.com/karltunmoreno/karltunmoreno">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=karltunmoreno&show_icons=true&line_height=40&count_private=true&theme=dark"/>-->
 
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karltunmoreno&theme=radical)-->
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karltunmoreno&theme=radical)-->
  
-<!--<img alt="my stats" align="left" width="49%"  src="https://github-readme-stats.vercel.app/api?username=karltunmoreno"/>-->
+<img alt="my stats" align="left" width="49%"  src="https://github-readme-stats.vercel.app/api?username=karltunmoreno"/>-->
 <img alt="top langs" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karltunmoreno&layout=compact"/>
 
 <!-- ![KARLTUN](https://github-readme-stats.vercel.app/api?username=karltunmoreno&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)-->

@@ -116,12 +116,12 @@ ________________________________________________________________________________
 
 
 
-<!-- <a href="https://github.com/karltunmoreno/karltunmoreno">
+ <a href="https://github.com/karltunmoreno/karltunmoreno">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karltunmoreno&theme=dark" />
 </a> -->
 	
 	
-<!--<a href="https://github.com/karltunmoreno/karltunmoreno">
+<a href="https://github.com/karltunmoreno/karltunmoreno">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=karltunmoreno&show_icons=true&line_height=40&count_private=true&theme=dark"/>-->
 
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karltunmoreno&theme=radical)-->
@@ -129,7 +129,7 @@ ________________________________________________________________________________
 <img alt="my stats" align="left" width="49%"  src="https://github-readme-stats.vercel.app/api?username=karltunmoreno"/>-->
 <img alt="top langs" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karltunmoreno&layout=compact"/>
 
-<!-- ![KARLTUN](https://github-readme-stats.vercel.app/api?username=karltunmoreno&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)-->
+ ![KARLTUN](https://github-readme-stats.vercel.app/api?username=karltunmoreno&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)-->
 
 
 - 🔭 I’m currently working on this page. 

@@ -131,7 +131,7 @@ ________________________________________________________________________________
 
 <!-- ![KARLTUN](https://github-readme-stats.vercel.app/api?username=karltunmoreno&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)-->
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=karltunmoreno)](https://github.com/karltunmoreno/github-contribution-stats/)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=karltunmoreno)](https://github.com//github-contribution-stats/)
 
 - 🔭 I’m currently working on this page. 
 - 👯 I’m looking to collaborate on Original ideas with Blockchain 

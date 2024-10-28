@@ -16,7 +16,7 @@
 <!--![Ss](https://media.licdn.com/dms/image/D5616AQHSJGiOuKxEPA/profile-displaybackgroundimage-shrink_350_1400/0/1709769517103?e=1720051200&v=beta&t=CrBevMh6A8dLSbX-p8bymJ-3zO35ch_rKsT1cm89SMI)-->
 
 
-![Ss](https://static.wixstatic.com/media/3a8f21_10e12371a38647449cfb999a6cb660d9~mv2.jpg/v1/fill/w_1124,h_502,al_c,q_85,enc_auto/OD4.jpg)
+<!--![Ss](https://static.wixstatic.com/media/3a8f21_10e12371a38647449cfb999a6cb660d9~mv2.jpg/v1/fill/w_1124,h_502,al_c,q_85,enc_auto/OD4.jpg)
 
 
 

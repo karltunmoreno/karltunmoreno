@@ -65,7 +65,6 @@ ________________________________________________________________________________
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=d1b01f)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white&style=for-the-badge)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?logo=jquery&logoColor=white&style=for-the-badge)
 ![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
@@ -109,7 +108,11 @@ ________________________________________________________________________________
 
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 
+_________________________________________________________________________________________________________________________________________________________________
 
+## Hosting and Deployment:
+
+![Docker](https://img.shields.io/badge/Docker-%23117AC9.svg?style=for-the-badge&logo=Docker&logoColor=white)
 
 
   

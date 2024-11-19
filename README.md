@@ -114,7 +114,9 @@ ________________________________________________________________________________
 
 ![Docker](https://img.shields.io/badge/Docker-%23117AC9.svg?style=for-the-badge&logo=Docker&logoColor=white)
 
+![Github](https://img.shields.io/badge/Github-%23117AC9.svg?style=for-the-badge&logo=Github&logoColor=white)
 
+![GoDaddy](https://img.shields.io/badge/GoDaddy-%23117AC9.svg?style=for-the-badge&logo=GoDaddy&logoColor=white)
   
 ___________________________________________________________________________________________________________________________________________________________________
 

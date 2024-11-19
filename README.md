@@ -36,9 +36,7 @@ ________________________________________________________________________________
 https://user-images.githubusercontent.com/95730440/229584426-a34abda5-f1ea-4d40-826a-9075704f2f32.mp4
 
 
-" I am a Full Stack Web Developer that lives & breathes coding and media practices in order to find solutions for mobile first web applications.    This allows me to champion the creative growth of others and myself."
-
-An accomplished coding and media production specialist that understands the phases of product and brand web development. From photography, content video to implementing (IOT) the Internet of Things into todays real time use case applications. I have become a full stack web developer advocate. Also, enriched with an arts & communications degree from Miami Dade College. I have also earned a Psychology degree from California State University, Northridge. Studied full stack web development and coding at the University of Miami and hold a certificate in Front and Back End Web Development in MERN stack.
+I am a Full Stack Web Developer who lives & breathes coding. I excel in mobile-first web applications, championing creative growth. With a background in coding, media production, and IoT, I bring comprehensive solutions to the table. My education includes an Arts & Communications degree from Miami Dade College, a Psychology degree from California State University, Northridge, and a certificate in MERN stack from the University of Miami.
 ______________________________________________________________________________________________________________________________________________________________________
 
 <p align="center"> :octocat: <b><a href="https://www.karltunmediamagic.com/portfolio.html"> GO TO MY PORTFOLIO </a>

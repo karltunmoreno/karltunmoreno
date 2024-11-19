@@ -36,7 +36,7 @@ ________________________________________________________________________________
 https://user-images.githubusercontent.com/95730440/229584426-a34abda5-f1ea-4d40-826a-9075704f2f32.mp4
 
 
-I am a Full Stack Web Developer who lives & breathes coding. I excel in mobile-first web applications, championing creative growth. With a background in coding, media production, and IoT, I bring comprehensive solutions to the table. My education includes an Arts & Communications degree from Miami Dade College, a Psychology degree from California State University, Northridge, and a certificate in MERN stack from the University of Miami.
+I am a Full Stack Web Developer who lives & breathes coding. I excel in mobile-first web applications, championing creative growth. With a background in coding, media production, IoT, and data analysis, I bring comprehensive solutions to the table. Additionally, I am a Graphics Artist with a focus on 3D design, parametric modeling, and photogrammetry. I also have expertise in AI and Natural Language Processing (NLP). My education includes an Arts & Communications degree from Miami Dade College, a Psychology degree from California State University, Northridge, and a certificate in MERN stack from the University of Miami.
 ______________________________________________________________________________________________________________________________________________________________________
 
 <p align="center"> :octocat: <b><a href="https://www.karltunmediamagic.com/portfolio.html"> GO TO MY PORTFOLIO </a>

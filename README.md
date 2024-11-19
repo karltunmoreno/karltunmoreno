@@ -13,7 +13,7 @@
 
 
 ![Ss](https://www.karltunmediamagic.com/assets/img/logo/logo.png)
-![Ss](https://media.licdn.com/dms/image/D5616AQHSJGiOuKxEPA/profile-displaybackgroundimage-shrink_350_1400/0/1709769517103?e=1720051200&v=beta&t=CrBevMh6A8dLSbX-p8bymJ-3zO35ch_rKsT1cm89SMI)
+<!--![Ss](https://media.licdn.com/dms/image/D5616AQHSJGiOuKxEPA/profile-displaybackgroundimage-shrink_350_1400/0/1709769517103?e=1720051200&v=beta&t=CrBevMh6A8dLSbX-p8bymJ-3zO35ch_rKsT1cm89SMI)-->
 
 ![Ss](https://static.wixstatic.com/media/6d5ac319109445e498f70f96608c7250.jpg/v1/fill/w_1335,h_615,al_c,q_85,enc_avif,quality_auto/6d5ac319109445e498f70f96608c7250.jpg)
 

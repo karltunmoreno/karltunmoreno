@@ -21,7 +21,7 @@
 
 
 
-![Ss](https://static.wixstatic.com/media/3a8f21_10e12371a38647449cfb999a6cb660d9~mv2.jpg/v1/fill/w_1124,h_502,al_c,q_85,enc_auto/OD4.jpg)
+<!--![Ss](https://static.wixstatic.com/media/3a8f21_10e12371a38647449cfb999a6cb660d9~mv2.jpg/v1/fill/w_1124,h_502,al_c,q_85,enc_auto/OD4.jpg)-->
 
 
 

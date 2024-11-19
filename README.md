@@ -71,11 +71,14 @@ ________________________________________________________________________________
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 	
 _______________________________________________________________________________________________________________________________________________________________	
-### Cloud:	
+### Office suite by Microsoft:	
 	
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 	![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+ ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+ ![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+ 
 	
 #### Back-end:
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff7a1)

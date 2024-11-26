@@ -15,7 +15,7 @@
 <!--![Ss](https://www.karltunmediamagic.com/assets/img/logo/logo.png)-->
 <!--![Ss](https://media.licdn.com/dms/image/D5616AQHSJGiOuKxEPA/profile-displaybackgroundimage-shrink_350_1400/0/1709769517103?e=1720051200&v=beta&t=CrBevMh6A8dLSbX-p8bymJ-3zO35ch_rKsT1cm89SMI)-->
 
-![Ss](file:///C:/Users/jetwave/Desktop/Karltun-Media-Magic/assets/img/others/portfolio2.png)
+![Ss](https://media.licdn.com/dms/image/v2/D5622AQGBjF6LZzDo6g/feedshare-shrink_800/feedshare-shrink_800/0/1732592233245?e=1735776000&v=beta&t=NMqEH06o0Jt0Wwkphx26R0Nd2QU2H9knq2P6IqhMEMo)
 
 
 

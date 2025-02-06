@@ -1,5 +1,5 @@
 
- ### 
+
 
 <!--
 **karltunmoreno/karltunmoreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,7 +8,7 @@
 
 
 ### Hello.👋, My name is Karltun Moreno.. my friends call me Karl.
-## I am a Full Stack Web Developer & 3D Graphic Design Artist ...                                                                Find Me on .. [![Linkedin][(https://www.linkedin.com/in/karltun-moreno-0a910a46/)]
+## I am a Full Stack Web Developer & 3D Graphic Design Artist ...                                                               
 
 
 

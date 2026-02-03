@@ -8,7 +8,7 @@
 
 
 ### Hello.👋, My name is Karltun Moreno...
-## I am a Full Stack Web Developer & 3D Graphic Design Artist ...                                                               
+##Mobile App Developer-Full-Stack Developer-IT Systems & Network Specialist                                                              
 
 
 

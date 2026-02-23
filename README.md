@@ -34,9 +34,13 @@ ________________________________________________________________________________
 ## Video
 
 https://user-images.githubusercontent.com/95730440/229584426-a34abda5-f1ea-4d40-826a-9075704f2f32.mp4
+Robotics‑Focused Professional
 
-
-I am a Full Stack Web Developer who lives & breathes coding. I excel in mobile-first web applications, championing creative growth. With a background in coding, media production, IoT, and data analysis, I bring comprehensive solutions to the table. Additionally, I am a Graphics Artist with a focus on 3D design, parametric modeling, and photogrammetry. I also have expertise in AI and Natural Language Processing (NLP). My education includes an Arts & Communications degree from Miami Dade College, a Psychology degree from California State University, Northridge, and a certificate in MERN stack from the University of Miami.
+I am a multidisciplinary developer transitioning deeply into robotics, combining full‑stack engineering, 3D modeling, and AI expertise with hands‑on ROS/ROS2 training. I specialize in building intelligent systems that blend software, simulation, and real‑world robot behavior.
+I’m currently advancing my robotics skill set through The Construct, where I’m developing proficiency in ROS/ROS2, Gazebo simulation, robot navigation, perception pipelines, and autonomous behavior programming. My background in full‑stack development allows me to design custom dashboards, control interfaces, and cloud‑connected robotics applications that integrate seamlessly with robotic systems.
+My creative foundation in 3D design, parametric modeling, and photogrammetry gives me a strong advantage in robotics workflows involving digital twins, simulation‑ready robot models, URDF design, and spatial computation. Combined with my experience in AI and Natural Language Processing, I’m particularly drawn to areas where machine learning, autonomy, and robotics intersect.
+I am also pursuing a Master’s in Information Technology at Nova Southeastern University, reinforcing my understanding of systems architecture, cybersecurity, network infrastructure, and enterprise‑grade computing — all essential components in modern robotics, automation, and intelligent system deployments.
+With a background that blends engineering, creativity, and human‑behavior insight, I aim to contribute to robotics teams building autonomous systems, robot simulation platforms, intelligent control software, and next‑generation human‑robot interfaces.
 ______________________________________________________________________________________________________________________________________________________________________
 
 <p align="center"> :octocat: <b><a href="https://www.karltunmediamagic.com/portfolio.html"> GO TO MY PORTFOLIO </a>

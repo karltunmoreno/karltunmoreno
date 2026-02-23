@@ -244,7 +244,7 @@ ________________________________________________________________________________
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karltunmoreno&theme=radical)-->
  
 <!--<img alt="my stats" align="left" width="49%"  src="https://github-readme-stats.vercel.app/api?username=karltunmoreno"/>-->
-<img alt="top langs" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karltunmoreno&layout=compact"/>
+
 
  <!--![KARLTUN](https://github-readme-stats.vercel.app/api?username=karltunmoreno&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)-->
 

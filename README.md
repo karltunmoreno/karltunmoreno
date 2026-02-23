@@ -8,7 +8,7 @@
 
 
 ### Hello.👋, My name is Karltun Moreno...
-##Mobile App Developer-Full-Stack Developer-IT Systems & Network Specialist                                                              
+##Full‑stack developer and 3D technologist transitioning into robotics, focused on creating intuitive, high‑quality user interfaces and control experiences that seamlessly connect humans with autonomous robotic systems.
 
 
 

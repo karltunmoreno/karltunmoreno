@@ -33,7 +33,7 @@ ________________________________________________________________________________
 
 ## VIDEO
 
-https://user-images.githubusercontent.com/95730440/229584426-a34abda5-f1ea-4d40-826a-9075704f2f32.mp4
+<!--https://user-images.githubusercontent.com/95730440/229584426-a34abda5-f1ea-4d40-826a-9075704f2f32.mp4-->
 
 Robotics‑Focused Professional
 

@@ -8,7 +8,8 @@
 ###   Full-Stack Web Developer • Information Technology 
 _____________________________________________
 ### Hello.👋, My name is Karltun Moreno...
-Full‑stack developer and 3D technologist transitioning into robotics, focused on creating intuitive, high‑quality user interfaces and control experiences that seamlessly connect humans with autonomous robotic systems.
+I build intuitive, intelligent user interfaces and control systems that connect humans with
+autonomous platforms. AI specialist, and 3D technologist transitioning into robotics & blockchain.
 
 
 
@@ -35,14 +36,13 @@ ________________________________________________________________________________
 
 <!--https://user-images.githubusercontent.com/95730440/229584426-a34abda5-f1ea-4d40-826a-9075704f2f32.mp4-->
 
-Robotics‑Focused Professional
+UI‑Focused Full‑Stack & Mobile Developer
 
-I am a multidisciplinary developer transitioning deeply into robotics, combining full‑stack engineering, 3D modeling, and AI expertise with hands‑on ROS/ROS2 training. I specialize in building intelligent systems that bridge software, simulation, and real‑world robot behavior.
-I’m currently advancing my robotics skill set through The Construct, developing proficiency in ROS/ROS2, Gazebo simulation, robot navigation, perception pipelines, and autonomous behavior programming. My full‑stack background enables me to design custom dashboards, control interfaces, and cloud‑connected robotics applications that integrate seamlessly with physical robotic systems.
-My creative foundation in 3D design, parametric modeling, and photogrammetry gives me a strong advantage in robotics workflows involving digital twins, simulation‑ready robot models, and spatial computation. Coupled with my experience in AI and Natural Language Processing, I’m especially drawn to the intersection of machine learning, autonomy, and robotics.
-I am currently pursuing a Master’s in Information Technology at Nova Southeastern University, strengthening my understanding of systems architecture, cybersecurity, enterprise infrastructure, and advanced computing — essential foundations for modern robotics and autonomous systems.
-My academic background in human behavior and communication also plays a key role in my work. I hold a Bachelor’s degree in Psychology from California State University, Northridge, and an Associate’s degree in Communications from Miami Dade College. This combination of technical engineering, creative design, and behavioral insight allows me to approach robotics with a unique perspective — one that values intuitive interfaces, meaningful human‑robot interaction, and systems that feel natural for people to use.
-With a foundation that blends engineering, creativity, and human‑centered thinking, I aim to contribute to robotics teams building autonomous systems, simulation platforms, intelligent control software, and next‑generation human‑robot interfaces.
+I am a multidisciplinary developer specializing in modern UI development, mobile applications, and blockchain‑enabled systems. I combine full‑stack engineering expertise with strong experience in React Native, Android Studio, and cross‑platform development for iOS and Android, building performant, user‑centric mobile and web applications.
+My background includes designing intuitive interfaces, real‑time dashboards, and cloud‑connected applications, with a growing focus on blockchain technologies and decentralized architectures. I enjoy building systems that blend clean UI/UX, secure data flows, and scalable application logic.
+I am currently pursuing a Master’s in Information Technology at Nova Southeastern University, deepening my understanding of systems architecture, cybersecurity, and enterprise infrastructure—core foundations for secure mobile platforms and blockchain applications.
+With an academic background in Psychology (B.A., CSUN) and Communications (A.A., Miami Dade College), I bring a human‑centered approach to development. This perspective enables me to create digital experiences that feel intuitive, trustworthy, and aligned with real user behavior.
+My goal is to contribute to teams building polished mobile applications, modern UI systems, and blockchain‑powered platforms that balance technical excellence with meaningful user experience.
 ______________________________________________________________________________________________________________________________________________________________________
 
 <p align="center"> :octocat: <b><a href="https://www.karltunmediamagic.com/portfolio.html"> GO TO MY PORTFOLIO </a>

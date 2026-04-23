@@ -39,9 +39,13 @@ ________________________________________________________________________________
 UI‑Focused Full‑Stack & Mobile Developer
 
 I am a multidisciplinary developer specializing in modern UI development, mobile applications, and blockchain‑enabled systems. I combine full‑stack engineering expertise with strong experience in React Native, Android Studio, and cross‑platform development for iOS and Android, building performant, user‑centric mobile and web applications.
+
 My background includes designing intuitive interfaces, real‑time dashboards, and cloud‑connected applications, with a growing focus on blockchain technologies and decentralized architectures. I enjoy building systems that blend clean UI/UX, secure data flows, and scalable application logic.
+
 I am currently pursuing a Master’s in Information Technology at Nova Southeastern University, deepening my understanding of systems architecture, cybersecurity, and enterprise infrastructure—core foundations for secure mobile platforms and blockchain applications.
+
 With an academic background in Psychology (B.A., CSUN) and Communications (A.A., Miami Dade College), I bring a human‑centered approach to development. This perspective enables me to create digital experiences that feel intuitive, trustworthy, and aligned with real user behavior.
+
 My goal is to contribute to teams building polished mobile applications, modern UI systems, and blockchain‑powered platforms that balance technical excellence with meaningful user experience.
 ______________________________________________________________________________________________________________________________________________________________________
 

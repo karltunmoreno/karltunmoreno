@@ -36,17 +36,13 @@ ________________________________________________________________________________
 
 <!--https://user-images.githubusercontent.com/95730440/229584426-a34abda5-f1ea-4d40-826a-9075704f2f32.mp4-->
 
-UI‑Focused Full‑Stack & Mobile Developer
+Full-Stack Software Engineer | UI, Data Engineering & Blockchain
 
-I am a multidisciplinary developer specializing in modern UI development, mobile applications, and blockchain‑enabled systems. I combine full‑stack engineering expertise with strong experience in React Native, Android Studio, and cross‑platform development for iOS and Android, building performant, user‑centric mobile and web applications.
-
-My background includes designing intuitive interfaces, real‑time dashboards, and cloud‑connected applications, with a growing focus on blockchain technologies and decentralized architectures. I enjoy building systems that blend clean UI/UX, secure data flows, and scalable application logic.
-
-I am currently pursuing a Master’s in Information Technology at Nova Southeastern University, deepening my understanding of systems architecture, cybersecurity, and enterprise infrastructure—core foundations for secure mobile platforms and blockchain applications.
-
-With an academic background in Psychology (B.A., CSUN) and Communications (A.A., Miami Dade College), I bring a human‑centered approach to development. This perspective enables me to create digital experiences that feel intuitive, trustworthy, and aligned with real user behavior.
-
-My goal is to contribute to teams building polished mobile applications, modern UI systems, and blockchain‑powered platforms that balance technical excellence with meaningful user experience.
+I’m a developer who focuses on building clean, user-friendly mobile and web applications. I have experience with full-stack development, React Native, and Android/iOS apps.
+I’ve worked on user interfaces, real-time dashboards, and cloud-based apps. I’m especially interested in blockchain and building scalable, modern applications.
+I’m currently pursuing a Master’s in Information Technology at Nova Southeastern University, where I’m learning more about systems architecture, blockchain, and data engineering.
+With a background in Psychology and Communications, I bring a user-focused approach to development and aim to create simple, intuitive, and reliable digital experiences.
+My goal is to build modern apps and platforms that are both high-quality and easy to use.
 ______________________________________________________________________________________________________________________________________________________________________
 
 <p align="center"> :octocat: <b><a href="https://www.karltunmediamagic.com/portfolio.html"> GO TO MY PORTFOLIO </a>

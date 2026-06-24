@@ -5,7 +5,7 @@
 **karltunmoreno/karltunmoreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-###   Full-Stack Web Developer • Information Technology 
+###   Full-Stack Software Engineer | UI, Data Engineering & Blockchain
 _____________________________________________
 ### Hello.👋, My name is Karltun Moreno...
 I build intuitive, intelligent user interfaces and control systems that connect humans with
@@ -36,7 +36,7 @@ ________________________________________________________________________________
 
 <!--https://user-images.githubusercontent.com/95730440/229584426-a34abda5-f1ea-4d40-826a-9075704f2f32.mp4-->
 
-Full-Stack Software Engineer | UI, Data Engineering & Blockchain
+
 
 I’m a developer who focuses on building clean, user-friendly mobile and web applications. I have experience with full-stack development, React Native, and Android/iOS apps.
 I’ve worked on user interfaces, real-time dashboards, and cloud-based apps. I’m especially interested in blockchain and building scalable, modern applications.

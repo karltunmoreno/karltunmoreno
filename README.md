@@ -7,7 +7,7 @@
 -->
 ###   Full-Stack Software Engineer | UI, Data Engineering & Blockchain
 _____________________________________________
-### Hello.👋, My name is Karltun Moreno...
+### Hello.👋, My name is Max Karltun...
 I build intuitive, intelligent user interfaces and control systems that connect humans with
 autonomous platforms. AI specialist, and 3D technologist transitioning into robotics & blockchain.
 
